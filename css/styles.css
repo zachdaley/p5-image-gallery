@@ -5,10 +5,6 @@
 	margin: 0 20px 10px 0;
 }
 
-a.gallink {
-
-    float: left;
-}
 
 .large-6,
 .large-3 {
@@ -22,8 +18,10 @@ div.tabs {
     background: black;
 }
 
-/* 
-p, h3, a {
-	font-family: 'redactedregular';
+/* Images */
+
+img.thumb {
+
+    width: 200px;
+    height: 150px;
 }
-*/
