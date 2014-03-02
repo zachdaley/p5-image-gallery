@@ -33,7 +33,11 @@ $(document).ready(function(){
 	});
 
 	// Run Photoset Plugin
-	$('.photoset-grid').photosetGrid();
+	$('.photoset-grid').photosetGrid({
+
+		gutter: '5px',
+		highresLinks: true,
+	});
 
 
 	//console.log('Page Loaded. Lets Do this!');
