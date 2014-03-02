@@ -11,7 +11,7 @@ $(document).ready(function(){
 		$('.gallery div').removeClass('large-6');
 
 		// Add 'large-3' class
-		$('.gallery div').addClass('large-3');
+		$('.gallery div').addClass('large-4');
 
 		// Hide Paragraphs
 		$('p').hide();
