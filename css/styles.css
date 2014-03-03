@@ -13,9 +13,28 @@
 	transition: width .25s .5s;
 }
 
-div.tabs {
+.top-bar .name h1 a {
+    
+    font-size: 1.5em;
+    font-family: 'Lobster', cursive;
 
-    background: black;
+}
+
+a {
+    color: #333;
+}
+h2.galhead {
+
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+/* View Toggle*/
+
+
+a.view {
+
+    vertical-align: center;
+    padding-right: 20px;
 }
 
 /* Images */
